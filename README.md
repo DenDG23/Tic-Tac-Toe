@@ -4,7 +4,7 @@ When you start the board will appear:\
 \
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/67323825/182846761-441228d4-7069-4b1d-82e4-64dd53b739df.png">\
 \
-After you make your move computer will make its and etc., while game isn't end.\
+After you make your move computer will make its and etc., until game is over.\
 \
 <img width="211" alt="image" src="https://user-images.githubusercontent.com/67323825/182847109-de9889dd-b7af-42ec-8ead-3b97fe95fc9b.png">\
 \
